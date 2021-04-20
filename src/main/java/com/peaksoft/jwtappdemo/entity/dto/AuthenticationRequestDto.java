@@ -1,4 +1,4 @@
-package com.peaksoft.jwtappdemo.dto;
+package com.peaksoft.jwtappdemo.entity.dto;
 
 import lombok.Data;
 

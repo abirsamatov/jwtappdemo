@@ -1,9 +1,7 @@
-package com.peaksoft.jwtappdemo.model;
+package com.peaksoft.jwtappdemo.entity;
 
 import lombok.Data;
-import lombok.Generated;
 import org.springframework.data.annotation.CreatedDate;
-import org.springframework.data.annotation.LastModifiedBy;
 import org.springframework.data.annotation.LastModifiedDate;
 
 import javax.persistence.*;

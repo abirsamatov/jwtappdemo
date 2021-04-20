@@ -1,8 +1,8 @@
 package com.peaksoft.jwtappdemo.service.impl;
 
-import com.peaksoft.jwtappdemo.model.Role;
-import com.peaksoft.jwtappdemo.model.Status;
-import com.peaksoft.jwtappdemo.model.User;
+import com.peaksoft.jwtappdemo.entity.Role;
+import com.peaksoft.jwtappdemo.entity.Status;
+import com.peaksoft.jwtappdemo.entity.User;
 import com.peaksoft.jwtappdemo.repository.RoleRepository;
 import com.peaksoft.jwtappdemo.repository.UserRepository;
 import com.peaksoft.jwtappdemo.service.UserService;

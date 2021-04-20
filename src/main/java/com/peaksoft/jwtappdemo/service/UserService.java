@@ -1,6 +1,6 @@
 package com.peaksoft.jwtappdemo.service;
 
-import com.peaksoft.jwtappdemo.model.User;
+import com.peaksoft.jwtappdemo.entity.User;
 
 import java.util.List;
 

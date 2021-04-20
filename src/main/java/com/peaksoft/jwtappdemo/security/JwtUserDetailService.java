@@ -1,6 +1,6 @@
 package com.peaksoft.jwtappdemo.security;
 
-import com.peaksoft.jwtappdemo.model.User;
+import com.peaksoft.jwtappdemo.entity.User;
 import com.peaksoft.jwtappdemo.security.jwt.JwtUser;
 import com.peaksoft.jwtappdemo.security.jwt.JwtUserFactory;
 import com.peaksoft.jwtappdemo.service.UserService;

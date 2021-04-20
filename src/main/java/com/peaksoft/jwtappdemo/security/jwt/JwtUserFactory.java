@@ -1,8 +1,8 @@
 package com.peaksoft.jwtappdemo.security.jwt;
 
-import com.peaksoft.jwtappdemo.model.Role;
-import com.peaksoft.jwtappdemo.model.Status;
-import com.peaksoft.jwtappdemo.model.User;
+import com.peaksoft.jwtappdemo.entity.Role;
+import com.peaksoft.jwtappdemo.entity.Status;
+import com.peaksoft.jwtappdemo.entity.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 

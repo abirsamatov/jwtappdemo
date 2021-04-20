@@ -1,6 +1,6 @@
 package com.peaksoft.jwtappdemo.security.jwt;
 
-import com.peaksoft.jwtappdemo.model.Role;
+import com.peaksoft.jwtappdemo.entity.Role;
 import io.jsonwebtoken.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

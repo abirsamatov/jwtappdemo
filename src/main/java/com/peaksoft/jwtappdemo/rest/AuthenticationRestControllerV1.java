@@ -1,7 +1,7 @@
 package com.peaksoft.jwtappdemo.rest;
 
-import com.peaksoft.jwtappdemo.dto.AuthenticationRequestDto;
-import com.peaksoft.jwtappdemo.model.User;
+import com.peaksoft.jwtappdemo.entity.dto.AuthenticationRequestDto;
+import com.peaksoft.jwtappdemo.entity.User;
 import com.peaksoft.jwtappdemo.security.jwt.JwtTokenProvider;
 import com.peaksoft.jwtappdemo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;

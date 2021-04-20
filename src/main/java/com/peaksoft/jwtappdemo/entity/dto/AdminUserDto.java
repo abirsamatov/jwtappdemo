@@ -1,8 +1,8 @@
-package com.peaksoft.jwtappdemo.dto;
+package com.peaksoft.jwtappdemo.entity.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.peaksoft.jwtappdemo.model.Status;
-import com.peaksoft.jwtappdemo.model.User;
+import com.peaksoft.jwtappdemo.entity.Status;
+import com.peaksoft.jwtappdemo.entity.User;
 import lombok.Data;
 
 @Data
